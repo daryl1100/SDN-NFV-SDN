@@ -201,18 +201,6 @@ Muncul rule OpenFlow dari controller ke switch.
 
 ---
 
-# MANO (Management and Orchestration)
-
-Pada implementasi sederhana ini, fungsi MANO dilakukan oleh:
-
-- POX Controller
-- Linux Command Line
-
-POX mengatur orchestration jaringan, sedangkan Linux mengelola lifecycle VNF seperti firewall dan router.
-
-Sehingga dapat dianggap sebagai Simple MANO.
-
----
 
 # Kesimpulan
 
@@ -238,9 +226,3 @@ menggunakan:
 Hasilnya adalah infrastruktur jaringan virtual yang fleksibel, scalable, murah, dan mudah dikelola tanpa membutuhkan perangkat jaringan fisik.
 
 ---
-
-# Author
-
-Nama:  
-NIM:  
-Kelas:
